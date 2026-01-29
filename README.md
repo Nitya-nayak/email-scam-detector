@@ -13,4 +13,4 @@ An end-to-end NLP based Machine Learning application that detects whether an ema
 Python | Scikit-learn | TF-IDF | Logistic Regression | Streamlit | SciPy
 
 ### 👨‍💻 Author
-**Nayak Nitya Vijaybhai**
+**Nayak Nitya **
